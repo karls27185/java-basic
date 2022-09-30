@@ -1,0 +1,1 @@
+D:\java\OpenJDK\jdk-17.0.2\bin\java D:\java\java-basic\src\academy\section02_structure\MkDir.java %DATE:~-8,8%
